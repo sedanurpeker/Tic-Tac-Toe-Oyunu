@@ -21,7 +21,7 @@
 **Oyunu başlatan dosyadır.**
 İlgili ajanı çağırarak oyunun başlatılmasını sağlar.
 
-### Oynama Seçenekleri
+## Oynama Seçenekleri
 
 - **Ajanı eğitmek için:** ajan.x_rastgele_egit() veya ajan.o_rastgele_egit() çağrılabilir.
 - **İnsan ile oynama:** ajan.insan_ile_oyna() çalıştırılarak kullanıcı ajana karşı oynayabilir.
